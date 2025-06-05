@@ -63,7 +63,6 @@ nav a{
     text-decoration: none;
     color: rgb(19, 58, 233);
     font-weight: bold;
-    gap: 10px;
     padding: 10px;
 }
 
@@ -87,6 +86,6 @@ nav a{
     nav a {
         font-size: 12px;
         padding: 5px;
+
     }
-    
 }
